@@ -96,7 +96,7 @@ Dashboard Implementation:
 
 #### Filtered List
 
-- 🔒 **Enhanced Data Validation:** Implementing the filtered list as a data validation rule under the `Job Title`, `Country`, and `Type` option in the Data tab ensures:
+- **Enhanced Data Validation:** Implementing the filtered list as a data validation rule under the `Job Title`, `Country`, and `Type` option in the Data tab ensures:
     - User input is restricted to predefined parts of dashboard like job title, country, type dropdown menus 
     - Incorrect or inconsistent entries are prevented
 
