@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This data jobs salary dashboard was created to see whether job seekers that investigated salaries for their desired jobs ensured they are being adequately compensated as of 2023. 
+This data jobs salary dashboard was created to see whether job seekers that investigated salaries for their desired jobs ensured they were being adequately compensated as of 2023. 
 
 ### Excel Skills Used
 
