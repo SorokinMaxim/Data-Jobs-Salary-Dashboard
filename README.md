@@ -97,4 +97,4 @@ Dashboard Implementation:
 
 ## Conclusion
 
-I created this dashboard to showcase insights into salary trends across multiple data-related job titles. This dashboard allows users to see how data jobs market was back in 2023 and using the functionalities explore how location and job type influenced salaries. 
+I created this dashboard to showcase insights into salary trends across multiple data-related job titles. This dashboard allows users to see how data jobs market was back in 2023 and, using the functionalities, explore how location and job type influenced salaries. 
