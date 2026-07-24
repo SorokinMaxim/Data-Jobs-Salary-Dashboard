@@ -10,18 +10,13 @@ This data jobs salary dashboard was created to see whether job seekers that inve
 
 The following Excel skills were utilized for analysis:
 
-- **Charts**
-- **Formulas and Functions**
-- **Data Validation**
+- **Charts,** **Formulas and Functions,** **Data Validation**
 
 ### Data Jobs Dataset
 
 The dataset used for this project contains real-world data science job information from 2023. It includes detailed information on:
 
-- **Job titles**
-- **Salaries**
-- **Locations**
-- **Skills**
+- **Job titles,** **Salaries,** **Locations,** **Skills**
 
 ## Dashboard Build
 
