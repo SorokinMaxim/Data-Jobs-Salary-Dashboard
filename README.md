@@ -1,25 +1,22 @@
 # Excel Salary Dashboard
 
+<img width="1660" height="607" alt="main_page" src="https://github.com/user-attachments/assets/abc3928b-541a-4703-a7d3-876eeb01631c" />
+
 ## Introduction
 
-This data jobs salary dashboard was created to see whether job seekers that investigated salaries for their desired jobs ensured they are being adequately compensated as of 2023. 
+This data jobs salary dashboard was created to see whether job seekers that investigated salaries for their desired jobs ensured they were being adequately compensated as of 2023. 
 
 ### Excel Skills Used
 
 The following Excel skills were utilized for analysis:
 
-- **Charts**
-- **Formulas and Functions**
-- **Data Validation**
+- **Charts,** **Formulas and Functions,** **Data Validation**
 
 ### Data Jobs Dataset
 
 The dataset used for this project contains real-world data science job information from 2023. It includes detailed information on:
 
-- **Job titles**
-- **Salaries**
-- **Locations**
-- **Skills**
+- **Job titles,** **Salaries,** **Locations,** **Skills**
 
 ## Dashboard Build
 
@@ -27,7 +24,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### Data Science Job Salaries - Bar Chart
 
-data_job_salaries.png
+<img width="827" height="457" alt="data_jobs_salaries" src="https://github.com/user-attachments/assets/bb635445-c2bf-4eef-85b0-d9027cd8c28e" />
 
 - **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
@@ -36,7 +33,7 @@ data_job_salaries.png
 
 #### Country Median Salaries - Map Chart
 
-data_jobs_per_country.png
+<img width="865" height="510" alt="data_jobs_per_country" src="https://github.com/user-attachments/assets/104c30aa-d73a-4583-8e00-764890aa48a2" />
 
 - **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
 - **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
@@ -67,11 +64,11 @@ IF(
 
 Background Table
 
-median_salary.png
+<img width="496" height="392" alt="median_salary" src="https://github.com/user-attachments/assets/d81d1ab6-e726-4c98-8434-da8bb33d63a3" />
 
 Dashboard Implementation
 
-jobs_chart.png
+<img width="567" height="537" alt="jobs_chart" src="https://github.com/user-attachments/assets/fb8710f4-f20d-494a-a108-7551adcd2dc4" />
 
 #### Count of Job Schedule Type
 
@@ -84,20 +81,20 @@ jobs_chart.png
 
 Background Table
 
-job_schedule.png
+<img width="562" height="227" alt="job_schedule" src="https://github.com/user-attachments/assets/230cd9d7-f61e-4ee7-907b-b6535873c4b2" />
 
 Dashboard Implementation:
 
-job_type_chart.png
+<img width="515" height="537" alt="job_type_chart" src="https://github.com/user-attachments/assets/74f1f395-c5be-421c-b254-4dd412a871b7" />
 
 ### Data Validation
 
 #### Filtered List
 
-- 🔒 **Enhanced Data Validation:** Implementing the filtered list as a data validation rule under the `Job Title`, `Country`, and `Type` option in the Data tab ensures:
+- **Enhanced Data Validation:** Implementing the filtered list as a data validation rule under the `Job Title`, `Country`, and `Type` option in the Data tab ensures:
     - User input is restricted to predefined parts of dashboard like job title, country, type dropdown menus 
     - Incorrect or inconsistent entries are prevented
 
 ## Conclusion
 
-I created this dashboard to showcase insights into salary trends across multiple data-related job titles. This dashboard allows users to see how data jobs market was back in 2023 and using the functionalities explore how location and job type influenced salaries. 
+I created this dashboard to showcase insights into salary trends across multiple data-related job titles. This dashboard allows users to see how data jobs market was back in 2023 and, using the functionalities, explore how location and job type influenced salaries. 
